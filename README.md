@@ -36,15 +36,6 @@
 + [当DDD遇上微服务](https://cloud.tencent.com/developer/article/1054388)
 + [DDD、六边形、Clean、洋葱架构我是如何把他们组合在一起的](https://cloud.tencent.com/developer/article/1560061)
 
-## 世界知名公认架构：
-
-+ [Claen Architecture](https://github.com/android10/Android-CleanArchitecture)
-+ [微服务 架构介绍](http://blog.daocloud.io/microservices-4/)
-+ [DDD 分层架构](https://www.zhihu.com/question/25089273)
-+ [DCI 架构](https://zhuanlan.zhihu.com/p/27654319)
-+ [六边形 架构](https://juejin.cn/post/6844903569947099143)
-+ [当DDD遇上微服务](https://cloud.tencent.com/developer/article/1054388)
-+ [DDD、六边形、Clean、洋葱架构我是如何把他们组合在一起的](https://cloud.tencent.com/developer/article/1560061)
 
 ## MVC/MVP/MVVM：
 
