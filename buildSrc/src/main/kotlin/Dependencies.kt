@@ -45,7 +45,7 @@ object Libraries {
         const val glide = "4.11.0"
         const val retrofit = "2.9.0"
         const val okHttpLoggingInterceptor = "4.9.0"
-        const val dagger = "2.11"
+        const val dagger = "2.34"
         const val fragmentKtx = "2.2.2"
         const val swipeRefreshLayout = "1.1.0"
         const val recyclerHelper = "3.0.4"
