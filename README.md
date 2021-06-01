@@ -5,7 +5,7 @@
 本项目结合架构理论知识和架构原则实践了一个wanAndroid项目，其中全部采用kotlin编写并抛弃了Rxjava，因为kotlin可以完全替代它。更多详细的介绍可以查看原博客和**star**本项目，后续会在github上持续更新：
 + [掘金博客](https://juejin.cn/user/166781495818408/posts)
 
-+ [github地址](https://github.com/blindmonk/WanArchitecture)
++ [项目介绍](https://juejin.cn/post/6960953981543645214)
 
 ## Google推荐架构：
 + [应用架构指南](https://developer.android.com/jetpack/guide?hl=zh-cn#common-principles)
