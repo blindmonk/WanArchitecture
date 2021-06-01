@@ -1,4 +1,6 @@
-# WanArchitecture
+<div align="center">
+<img src="https://github.com/blindmonk/WanArchitecture/blob/main/WanArchitecture.png">
+</div>
 
 ## 介绍
 
